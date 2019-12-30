@@ -35,6 +35,40 @@
      "Time":"20-30",
      "Rating":"4.9",
      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdsZ5aEkYyS0N2sFxQoW-y1Oi9zP2EV5F_tw1hIDFibi_tzjsvA&s"}
+    , {
+      "Name":"Babai Idly N Idly",
+      "Type":"South Idian",
+      "Time":"20-30",
+      "Rating":"3.9",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnxdehaTS_JMAcJn0aJGoSHVIq7pf9lP69lH1Rh7YcdWEOvbxk&s"}
+    ,
+    {
+      "Name":"Sai Kakatiya Tiffns",
+      "Type":"South Idian",
+      "Time":"20-30",
+      "Rating":"4.9",
+      "image":"https://bellanailspaelpaso.com/uploads/fdemoi55cqzj7/filemanager/salon.png"}
+    ,
+    {
+     "Name":"Shankar Tiffin Center",
+     "Type":"South Idian",
+     "Time":"20-30",
+     "Rating":"4.9",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdsZ5aEkYyS0N2sFxQoW-y1Oi9zP2EV5F_tw1hIDFibi_tzjsvA&s"}
+    ,
+     {
+      "Name":"Sai Kakatiya Tiffns",
+      "Type":"South Idian",
+      "Time":"20-30",
+      "Rating":"4.9",
+      "image":"https://bellanailspaelpaso.com/uploads/fdemoi55cqzj7/filemanager/salon.png"}
+    ,
+    {
+     "Name":"Shankar Tiffin Center",
+     "Type":"South Idian",
+     "Time":"20-30",
+     "Rating":"4.9",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfdsZ5aEkYyS0N2sFxQoW-y1Oi9zP2EV5F_tw1hIDFibi_tzjsvA&s"}
     
   ]
 }
